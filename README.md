@@ -11,15 +11,15 @@ To use this repository with Overleaf, follow the instructions below:
 
 1. Select the `Code` green button and then select `Download ZIP` as shown below.
 
-![attributes](img/downloadZip.png)
+![attributes](readme-img/downloadZip.png)
 
 2. Navigate to Overleaf and once logged in, select the `New Project` green button at the top left corner of the screen.
 
-![attributes](img/overleafUploadProject.png)
+![attributes](readme-img/overleafUploadProject.png)
 
 3. Select the `Upload Project` option from the menu.
 
-![attributes](img/selectazip.png)
+![attributes](readme-img/selectazip.png)
 
 4. Click the `Select a .zip file` button and upload the downloaded zip file.
 
