@@ -25,10 +25,11 @@ To use this repository with Overleaf, follow the instructions below:
 
 5. The LaTeX project is started and you are ready for some coding!
 
-## Authors
+## Authors and Organizers
 
-* Aaron English
 * Ghassan Arnouk
+* Alec Bales D'Cruze
+* Aaron English
 
 ## License
 
