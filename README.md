@@ -3,9 +3,6 @@
 This is the blank companion document to the LaTeX introduction workshop (main repo here [here](https://github.com/humdrumcomet/LaTeXIntroduction)).
 This empty document is intended to be used as a starting point for a guided coding session, but can work well as a starting point for a separate project as well.
 
-To return to the top level directory of the tutorials, click [here](https://github.com/humdrumcomet/LaTeXTutorialSeries).\
-To go to the next workshop in the series, click [here](https://github.com/humdrumcomet/LaTeXAdvancedWorkshop).
-
 ## Workshop Series Map
 
 0. [LaTeX Workshops and Tutorial Series](https://github.com/humdrumcomet/LaTeXTutorialSeries)  
