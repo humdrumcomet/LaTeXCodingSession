@@ -19,7 +19,7 @@ This empty document is intended to be used as a starting point for a guided codi
       A quick taste of where else you could take some of these ideas
     - [Course Specific Material](https://github.com/humdrumcomet/LaTeXAdvancedWorkshop-Course-Specific)  
       Some useful course specific material for ELEC
-3. [LaTeX in Different Environments]()  
+3. [LaTeX in Different Environments](https://github.com/humdrumcomet/LaTeXinDifferentEnvironments)  
 4. [Fully Reproducible Documents, Literate Programming, and Experimental LaTeX]()  
 
 ## Usage
